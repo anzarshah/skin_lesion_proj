@@ -7,7 +7,7 @@
 
 ---
 
-## Files Tables
+<!-- ## Files Tables
 
 | Sr.No | File Name                                                    | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -21,7 +21,7 @@
 | 8     | Fine-tuning all layers of pretrained DenseNet 201 on ImageNet | [**Notebook**](https://nbviewer.jupyter.org/github/ashishpatel26/Skin-Lesions-Detection-Deep-learning/blob/main/Notebooks/Retraining_DenseNet.ipynb) |
 | 9     | Ensemble model of the fully fine-tuned Inception V3 and DenseNet 201 | **[Notebook](https://nbviewer.jupyter.org/github/ashishpatel26/Skin-Lesions-Detection-Deep-learning/blob/main/Notebooks/Ensemble_Models.ipynb)** |
 
-
+ -->
 
 
 
