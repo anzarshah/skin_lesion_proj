@@ -27,7 +27,7 @@
 | Models        | Validation           | Test            |  Depth          | # Params          |
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:|
 |  Baseline   | 77.48% |76.54% | 11 layers | 2,124,839 |
-|  VGG16 (from last block)    |  79.82%      |   79.64%  | 23 layers | 14,980,935 |
+|  VGG16    |  79.82%      |   79.64%  | 23 layers | 14,980,935 |
 |  Inception V3  | 86.92% | 86.826% | _ | _ |
 |  DenseNet 201   | **86.696%** | **87.725%** | _ | _ |
 |  Ensemble of fully-fine-tuned Inception V3 and DenseNet 201 | **88.8%** | **88.52%** | _ | _ |
