@@ -22,9 +22,9 @@
 
 
 
-## Results
 
-| Models        | Validation           | Test            |  Depth          | # Params          |
+
+| Models        | Validation           | Test       |            |           |
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:|
 |  Baseline   | 77.48% |76.54% | 11 layers | 2,124,839 |
 |  VGG16    |  79.82%      |   79.64%  | 23 layers | 14,980,935 |
